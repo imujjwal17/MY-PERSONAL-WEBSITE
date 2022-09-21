@@ -154,3 +154,10 @@ p{
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+.sun
+{
+  height : 150px;
+  position:absolute;
+  left:200px;
+  top:100px;
+}
